@@ -1,10 +1,17 @@
 # ajio_ui_redesigned
 
-A new Flutter project.
+## Getting Started
 
 <img src="https://github.com/govindgurjar/ajio_app_ui_clone/assets/83970520/2526a1be-f31b-4db2-a085-94d228b95f5a" alt="drawing" width="300"/>
 
-## Getting Started
+<img src="https://github.com/govindgurjar/ajio_app_ui_clone/assets/83970520/56e33a73-14e3-4a67-8833-16ce745a2c0b" alt="drawing" width="300"/>
+
+https://github.com/govindgurjar/ajio_app_ui_clone/assets/83970520/312ccd83-8b09-4639-a048-668fb5fd4fca
+
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
